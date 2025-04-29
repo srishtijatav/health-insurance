@@ -1,22 +1,28 @@
 Decentralized Health Insurance
+
 Project Description
+
 Decentralized Health Insurance (DHI) is a blockchain-based platform that revolutionizes the traditional health insurance industry by eliminating intermediaries and creating a transparent, efficient, and user-centric healthcare coverage system. Built on smart contracts, DHI enables direct interaction between patients and the insurance protocol, streamlining policy management and claims processing while reducing administrative costs and increasing trust through immutable record-keeping.
 
 Project Vision
+
 Our vision is to make quality healthcare accessible to everyone through a decentralized insurance model that operates with transparency, efficiency, and fairness. By leveraging blockchain technology, we aim to reduce the cost of health insurance, accelerate claims settlement, eliminate fraudulent claims, and empower individuals to have complete control over their health insurance policies regardless of geographical location or socioeconomic status.
 
 Key Features
+
 Core Smart Contract Functionality
 Policy Creation: Users can create customized insurance policies by specifying coverage amounts and duration while paying premiums directly to the smart contract.
 Claim Submission: Policyholders can submit claims against active policies, providing necessary documentation and requesting specific amounts.
 Claim Processing: The protocol can evaluate and process claims based on predefined conditions and evidence provided, with approved claims receiving immediate payouts.
 Platform Benefits
+
 Transparency: All transactions, policies, and claims are recorded on the blockchain, visible to relevant parties and immutable.
 Cost Efficiency: Elimination of intermediaries significantly reduces administrative costs and overhead.
 Automated Processing: Smart contracts automate policy issuance and claims processing, reducing wait times and human error.
 Fraud Prevention: Blockchain's immutable nature helps prevent fraudulent claims through verifiable medical records and transaction history.
 Global Accessibility: Anyone with internet access can participate, regardless of geographical location or traditional banking access.
 Security Measures
+
 Secure Transactions: All premium payments and claim disbursements are handled securely through blockchain technology.
 Private Data Protection: Sensitive medical information is encrypted and accessible only to authorized parties.
 Smart Contract Auditing: Regular security audits ensure the integrity and safety of the platform.
